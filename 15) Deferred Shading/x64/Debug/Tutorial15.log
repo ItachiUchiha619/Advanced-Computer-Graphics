@@ -1,0 +1,13 @@
+﻿  Renderer.cpp
+H:\Downloads\CourseWork_8502_Graphics-20220523T095129Z-001\CourseWork_8502_Graphics\15) Deferred Shading\Renderer.cpp(51,12): warning C4244:  'argument': conversion from 'int' to 'const float', possible loss of data
+  Tutorial15.cpp
+  Generating Code...
+H:\Downloads\CourseWork_8502_Graphics-20220523T095129Z-001\CourseWork_8502_Graphics\15) Deferred Shading\Renderer.cpp(49,33): warning C4244:  'argument': conversion from 'int' to 'const float', possible loss of data
+  LINK : H:\Downloads\CourseWork_8502_Graphics-20220523T095129Z-001\CourseWork_8502_Graphics\x64\Debug\Tutorial 15 - Deferred Shading.exe not found or not built by the last incremental link; performing full link
+nclgl.lib(Mouse.obj) : warning LNK4204: 'H:\Downloads\CourseWork_8502_Graphics-20220523T095129Z-001\CourseWork_8502_Graphics\x64\Debug\nclgl.pdb' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(Shader.obj) : warning LNK4204: 'H:\Downloads\CourseWork_8502_Graphics-20220523T095129Z-001\CourseWork_8502_Graphics\x64\Debug\nclgl.pdb' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(stb_image_aug.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(stb_image_aug.obj)' or at 'H:\Downloads\CourseWork_8502_Graphics-20220523T095129Z-001\CourseWork_8502_Graphics\x64\Debug\SOIL.pdb'; linking object as if no debug info
+nclgl.lib(SOIL.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(SOIL.obj)' or at 'H:\Downloads\CourseWork_8502_Graphics-20220523T095129Z-001\CourseWork_8502_Graphics\x64\Debug\SOIL.pdb'; linking object as if no debug info
+nclgl.lib(image_helper.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(image_helper.obj)' or at 'H:\Downloads\CourseWork_8502_Graphics-20220523T095129Z-001\CourseWork_8502_Graphics\x64\Debug\SOIL.pdb'; linking object as if no debug info
+nclgl.lib(image_DXT.obj) : warning LNK4099: PDB 'SOIL.pdb' was not found with 'nclgl.lib(image_DXT.obj)' or at 'H:\Downloads\CourseWork_8502_Graphics-20220523T095129Z-001\CourseWork_8502_Graphics\x64\Debug\SOIL.pdb'; linking object as if no debug info
+  Tutorial15.vcxproj -> H:\Downloads\CourseWork_8502_Graphics-20220523T095129Z-001\CourseWork_8502_Graphics\x64\Debug\Tutorial 15 - Deferred Shading.exe

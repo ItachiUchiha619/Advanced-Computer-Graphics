@@ -1,0 +1,4 @@
+﻿nclgl.lib(Mouse.obj) : warning LNK4204: 'H:\Downloads\CourseWork_8502_Graphics-20220523T095129Z-001\CourseWork_8502_Graphics\x64\Debug\nclgl.pdb' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(OGLRenderer.obj) : warning LNK4204: 'H:\Downloads\CourseWork_8502_Graphics-20220523T095129Z-001\CourseWork_8502_Graphics\x64\Debug\nclgl.pdb' is missing debugging information for referencing module; linking object as if no debug info
+nclgl.lib(Shader.obj) : warning LNK4204: 'H:\Downloads\CourseWork_8502_Graphics-20220523T095129Z-001\CourseWork_8502_Graphics\x64\Debug\nclgl.pdb' is missing debugging information for referencing module; linking object as if no debug info
+  ZXEmulator.vcxproj -> H:\Downloads\CourseWork_8502_Graphics-20220523T095129Z-001\CourseWork_8502_Graphics\x64\Debug\ZXEmulator.exe
